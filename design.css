@@ -1,0 +1,15 @@
+.main {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    color: gray;
+}
+
+.main_class {
+    background-color: rgb(232, 230, 230);
+    margin: 10px 800px 100px 10px;
+    font-size: 12, 5px;
+    font-family: Arial;
+    padding-left: 5px;
