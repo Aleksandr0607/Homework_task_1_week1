@@ -1,15 +1,21 @@
-.main {
-    color: blue;
-    text-align: center;
-}
-
-h3 {
-    color: gray;
-}
-
-.main_class {
-    background-color: rgb(232, 230, 230);
-    margin: 10px 800px 100px 10px;
+.body_main {
+    background-color: rgb(245, 245, 243);
+    margin: 10px 800px auto 10px;
     font-size: 12, 5px;
     font-family: Arial;
     padding-left: 5px;
+}
+
+.main_title {
+    color: rgb(70, 60, 140);
+    text-align: center;
+}
+
+.h3_title {
+    color: rgb(125, 134, 151)
+}
+
+.main_text,
+.phrase {
+    color: rgb(28, 27, 27);
+}
